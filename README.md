@@ -9,7 +9,7 @@
 
 </div>
 
-🔭 I’m currently working on [Cloud Code Academy](https://cloudcodeacademy.com)'s Salesforce Developer Kickstarter Program!!
+🔭 I’m currently working on [Cloud Code Academy's Salesforce Developer Kickstarter Program!!](https://cloudcodeacademy.com)
 
 💬 Ask me about **Salesforce Development**
 
